@@ -6,8 +6,8 @@ resource "aws_instance" "web" {
   availability_zone      = "us-east-1a"
 
   tags = {
-    Name    = "Dove-web"
-    Project = "Dove"
+    Name    = "bla"
+    Project = "bla"
   }
 }
 
